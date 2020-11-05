@@ -29,5 +29,6 @@
 		</a> 
 
 # Screenshot
+![splashscreen](https://user-images.githubusercontent.com/61135648/98208757-6d91c500-1f70-11eb-8d97-8b27fa09934e.gif)
 
 
