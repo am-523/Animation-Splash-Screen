@@ -1,0 +1,13 @@
+D:\AW 17\Source Code Visual Studio 19\Animation-Splash-Screen\Splash Screen Animation UI\bin\Debug\Splash Screen Animation UI.exe.config
+D:\AW 17\Source Code Visual Studio 19\Animation-Splash-Screen\Splash Screen Animation UI\bin\Debug\Splash Screen Animation UI.exe
+D:\AW 17\Source Code Visual Studio 19\Animation-Splash-Screen\Splash Screen Animation UI\bin\Debug\Splash Screen Animation UI.pdb
+D:\AW 17\Source Code Visual Studio 19\Animation-Splash-Screen\Splash Screen Animation UI\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Animation-Splash-Screen\Splash Screen Animation UI\obj\Debug\Splash Screen Animation UI.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Animation-Splash-Screen\Splash Screen Animation UI\obj\Debug\Splash_Screen_Animation_UI.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Animation-Splash-Screen\Splash Screen Animation UI\obj\Debug\Splash_Screen_Animation_UI.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Animation-Splash-Screen\Splash Screen Animation UI\obj\Debug\Splash Screen Animation UI.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Animation-Splash-Screen\Splash Screen Animation UI\obj\Debug\Splash Screen Animation UI.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Animation-Splash-Screen\Splash Screen Animation UI\obj\Debug\Splash Screen Animation UI.csproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Animation-Splash-Screen\Splash Screen Animation UI\obj\Debug\Splash Screen Animation UI.exe
+D:\AW 17\Source Code Visual Studio 19\Animation-Splash-Screen\Splash Screen Animation UI\obj\Debug\Splash Screen Animation UI.pdb
+D:\AW 17\Source Code Visual Studio 19\Animation-Splash-Screen\Splash Screen Animation UI\obj\Debug\Splash_Screen_Animation_UI.frmLogin.resources
