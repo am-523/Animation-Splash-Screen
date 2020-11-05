@@ -29,7 +29,7 @@ namespace Splash_Screen_Animation_UI
             else
             {
                 guna2CircleProgressBar1.Value += 1;
-                label1.Text = "Wait A Moments..." + guna2CircleProgressBar1.Value.ToString() + "%";
+                label1.Text = "Wait A Moment...." + guna2CircleProgressBar1.Value.ToString() + "%";
             }
         }
 

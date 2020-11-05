@@ -82,9 +82,9 @@
             this.label1.Font = new System.Drawing.Font("OCR A Std", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(358, 318);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(248, 21);
+            this.label1.Size = new System.Drawing.Size(234, 21);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Wait A Moments...";
+            this.label1.Text = "Wait A Moment...";
             // 
             // timer1
             // 
